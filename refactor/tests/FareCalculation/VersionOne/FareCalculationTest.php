@@ -1,6 +1,6 @@
 <?php
 
-use App\VersionOne\FareCalculation;
+use App\FareCalculation\VersionOne\FareCalculation;
 
 test('Should calculate the value of a normal ride', function() {
     $rideList = [['distance' => 10, 'rideTime' => new DateTime('2022-07-20T12:00:00')]];

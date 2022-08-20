@@ -1,6 +1,6 @@
 <?php
 
-namespace App\VersionOne;
+namespace App\FareCalculation\VersionOne;
 
 use DateTime;
 use Exception;
