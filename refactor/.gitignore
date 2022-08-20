@@ -4,6 +4,7 @@ node_modules/
 bower_components/
 composer.lock
 .vscode/settings.json
+/coverage/
 
 # Laravel 4 specific
 bootstrap/compiled.php
